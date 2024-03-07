@@ -36,7 +36,7 @@ links.forEach(function(link){
         //para demoorar 
         setTimeout(function(){
         //para redireccionar la web
-        location.href="/boletines";
+        location.href="/jav0240.github.io/boletines/";
         },600);
 
         return false;
