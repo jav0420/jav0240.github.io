@@ -36,7 +36,7 @@ links.forEach(function(link){
         //para demoorar 
         setTimeout(function(){
         //para redireccionar la web
-        location.href="/";
+        location.href="/boletines";
         },600);
 
         return false;
